@@ -6,6 +6,8 @@ The code here is based on the tutorial from https://towardsdatascience.com/data-
 
 Some References:
 
+Dataset: https://www.kaggle.com/puja19/telcom-customer-churn
+
 To do hyper-parameter tuning using gridsearch https://towardsdatascience.com/hyper-parameter-tuning-and-model-selection-like-a-movie-star-a884b8ee8d68
 
 Logistic Regression documentation: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
